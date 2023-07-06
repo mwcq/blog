@@ -1,0 +1,19 @@
+@media (min-width:768px) {
+	.news-input{
+		width: 50%;
+		
+	}
+}
+.bg-green{
+	background: #B0FF13;
+}
+.bgdark{
+	background: #101702;
+}
+.
+.bg-dark-green{
+	background: linear-gradient(#B0FF13,#101702);
+}
+.bg-jb2{
+	background: linear-gradient(rgb(211,211,211),rgb(117,193,196));
+}

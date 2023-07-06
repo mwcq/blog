@@ -1,0 +1,12 @@
+[ 2023-04-18T15:33:25+08:00 ] 127.0.0.1 /index.php/Home/Qiantai/blog_xq/produceid/pan.baidu.com/s/*******
+ERR: 1054:Unknown column 'pan.baidu.com' in 'where clause'
+ [ SQL语句 ] : update producesynopsis set browse = browse+1 where produceid = pan.baidu.com
+
+[ 2023-04-18T15:33:32+08:00 ] 127.0.0.1 /index.php/Home/Qiantai/blog_xq/produceid/pan.baidu.com/s/*******
+ERR: 1054:Unknown column 'pan.baidu.com' in 'where clause'
+ [ SQL语句 ] : update producesynopsis set browse = browse+1 where produceid = pan.baidu.com
+
+[ 2023-04-18T15:33:55+08:00 ] 127.0.0.1 /index.php/Home/Qiantai/blog_xq/produceid/pan.baidu.com/s/*******
+ERR: 1054:Unknown column 'pan.baidu.com' in 'where clause'
+ [ SQL语句 ] : update producesynopsis set browse = browse+1 where produceid = pan.baidu.com
+

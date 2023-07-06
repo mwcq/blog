@@ -1,0 +1,34 @@
+[ 2022-11-27T15:58:30+08:00 ] 127.0.0.1 /index.php/Home/Houtai/%7BU:(index)%7D
+ERR: 非法操作:{U:(index)}
+
+[ 2022-11-27T15:58:54+08:00 ] 127.0.0.1 /index.php/Home/Houtai/%7BU:(index)%7D
+ERR: 非法操作:{U:(index)}
+
+[ 2022-11-27T15:58:56+08:00 ] 127.0.0.1 /index.php/Home/Houtai/%7BU:(index)%7D
+ERR: 非法操作:{U:(index)}
+
+[ 2022-11-27T18:35:37+08:00 ] 127.0.0.1 /index.php/Home/dm.html
+ERR: 无法加载控制器:Dm
+
+[ 2022-11-27T18:35:48+08:00 ] 127.0.0.1 /index.php/Home/youxi.html
+ERR: 无法加载控制器:Youxi
+
+[ 2022-11-27T18:35:53+08:00 ] 127.0.0.1 /index.php/Home/qianduan.html
+ERR: 无法加载控制器:Qianduan
+
+[ 2022-11-27T18:36:02+08:00 ] 127.0.0.1 /index.php/Home/qianduan.html
+ERR: 无法加载控制器:Qianduan
+
+[ 2022-11-27T18:36:20+08:00 ] 127.0.0.1 /index.php/Home/qianduan.html
+ERR: 无法加载控制器:Qianduan
+
+[ 2022-11-27T18:36:21+08:00 ] 127.0.0.1 /index.php/Home/qianduan.html
+ERR: 无法加载控制器:Qianduan
+
+[ 2022-11-27T19:01:26+08:00 ] 127.0.0.1 /index.php/Home/%7BU:(index)%7D
+ERR: 无法加载控制器:{U:(index)}
+
+[ 2022-11-27T19:04:15+08:00 ] 127.0.0.1 /index.php/Home/Qiantai/blog_xq/produceid/pan.baidu.com/s/*******
+ERR: 1054:Unknown column 'pan.baidu.com' in 'where clause'
+ [ SQL语句 ] : update producesynopsis set browse = browse+1 where produceid = pan.baidu.com
+

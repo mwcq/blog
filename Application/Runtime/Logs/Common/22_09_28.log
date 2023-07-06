@@ -1,0 +1,36 @@
+[ 2022-09-28T08:21:42+08:00 ] 127.0.0.1 /index.php/Qiantai/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000169s ]
+ERR: 无法加载模块:Qiantai
+
+[ 2022-09-28T08:22:22+08:00 ] 127.0.0.1 /index.php/Qiantai/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+ERR: 无法加载模块:Qiantai
+
+[ 2022-09-28T08:22:53+08:00 ] 127.0.0.1 /index.php/Houtai/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+ERR: 无法加载模块:Houtai
+
+[ 2022-09-28T08:24:58+08:00 ] 127.0.0.1 /index.php/Houtai/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000003s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+ERR: 无法加载模块:Houtai
+
+[ 2022-09-28T08:25:16+08:00 ] 127.0.0.1 /index.php/Houtai/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000004s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+ERR: 无法加载模块:Houtai
+
+[ 2022-09-28T08:26:16+08:00 ] 127.0.0.1 /index.php/Houtai/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+ERR: 无法加载模块:Houtai
+
